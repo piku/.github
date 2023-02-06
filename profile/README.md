@@ -8,7 +8,7 @@ It is currently able to deploy, manage and independently scale multiple applicat
  * Accessible to hobbyists and K-12 schools (simple to understand, use and maintain)
  * ~1500 lines readable code.
  * Functional code style.
- * Few (single?) dependencies (just one, really)
+ * Few dependencies (just one, really, `click`)
  * Encourages the use of the [12 factor app](https://12factor.net) approach.
  * Simplify user experience.
  * Cover 80% of common use cases.
