@@ -1,6 +1,6 @@
 [`piku`](https://github.com/piku/piku) allows you to Heroku-style `git push` deployments to your own servers, no matter how small they are, and with any runtime (Python, Ruby, Java, NodeJS, etc. - add your own here.) 
 
-It is currently able to deploy, manage and independently scale multiple applications per host on both ARM and Intel architectures, and works on any cloud provider (as well as bare metal) that can run Python, `nginx` and `uwsgi`.
+It is currently able to deploy, manage and independently scale multiple applications per host on both ARM and Intel architectures, and works on any cloud provider (as well as bare metal) that can run Python, `nginx` and `uwsgi` - all of which can be set up via OS packages, so no need to compile anything.
 
 ### Core values
 
